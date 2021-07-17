@@ -84,9 +84,7 @@
           },
           "defaultConfiguration": "development",
           "options": {
-            "customWebpackConfig": {
-              "path": "webpack.config.js"
-            }
+            "browserTarget": "material-with-tailwindcss:build"
           }
         },
         "extract-i18n": {
