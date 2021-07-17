@@ -7,8 +7,6 @@ module.exports = {
           {
             loader: 'postcss-loader',
             options: {
-              // ident: 'postcss',
-              // syntax: 'postcss-scss',
               postcssOptions: {
                 plugins: [
                   'postcss-import',

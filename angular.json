@@ -82,10 +82,7 @@
               "browserTarget": "material-with-tailwindcss:build:development"
             }
           },
-          "defaultConfiguration": "development",
-          "options": {
-            "browserTarget": "material-with-tailwindcss:build"
-          }
+          "defaultConfiguration": "development"
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
